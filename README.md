@@ -4,3 +4,6 @@ Spotify Web API provides easy access to a huge library of songs and theirs audio
 
 
 ![Spotify](https://upload.wikimedia.org/wikipedia/commons/3/33/Spotify_logo13.png)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Spotify_logo13.png" width="48">
