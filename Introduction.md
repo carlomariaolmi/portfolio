@@ -34,5 +34,8 @@ On success, the HTTP status code in the response header is 200 OK and the respon
 import requests
 response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'Radiohead', 'type':'playlist'})
 response.status_code
+```
+
+```python
 response_json = response.json()
 ```
