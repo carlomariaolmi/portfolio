@@ -14,11 +14,9 @@ We can use a simple GET request to retrieve information from the Spotify API.
 Spotify has several API endpoints. An endpoint is a server route that is used to retrieve different data from the API. 
 To access them, you would add the endpoint to the base url of the API.
 
-The first endpoint we’ll look at on Spotify is the /search endpoint. This endpoint gets some information about the item requested.
+The first endpoint we’ll look at on Spotify is the */search* endpoint. This endpoint gets some information about the item requested.
 
-You can see a listing of all the endpoints on Spotify here.[here](https://developer.spotify.com/web-api/endpoint-reference/)
-
-The base url for the OpenNotify API is http://api.open-notify.org, so we’ll add this to the beginning of all of our endpoints.
+You can see a listing of all the endpoints on Spotify [here](https://developer.spotify.com/web-api/endpoint-reference/).
 
 ### Endpoints
 GET https://api.spotify.com/v1/search
