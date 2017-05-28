@@ -30,5 +30,5 @@ response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'R
 response_json = response.json()
 ```
 
-Request Parameters
+### Request Parameters
 (q) The search query's keywords (and optional field filters and operators), for example q='Radiohead'. 
