@@ -36,9 +36,7 @@ import requests
 response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'Radiohead', 'type':'artist'})
 response.status_code
 ```
-```python
-200
-```
+```python 200 ```
 
 ```python
 response_json = response.json()
