@@ -18,6 +18,10 @@ There are many different types of requests. The most commonly used one, a GET re
 
 We can use a simple GET request to retrieve information from the OpenNotify API.
 
+response  = requests.get(url='https://api.spotify.com/v1/search', params= {'q':playlist, 'type':'playlist'})
+response = req.json()
+
+
 OpenNotify has several API endpoints. An endpoint is a server route that is used to retrieve different data from the API. For example, the /comments endpoint on the Reddit API might retrieve information about comments, whereas the /users endpoint might retrieve data about users. To access them, you would add the endpoint to the base url of the API.
 
 The first endpoint we’ll look at on OpenNotify is the iss-now.json endpoint. This endpoint gets the current latitude and longitude of the International Space Station. As you can see, retrieving this data isn’t a great fit for a dataset, because it involves some calculation on the server, and changes quickly.
