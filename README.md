@@ -20,7 +20,11 @@ We can use a simple GET request to retrieve information from the OpenNotify API.
 
 response  = requests.get(url='https://api.spotify.com/v1/search', params= {'q':playlist, 'type':'playlist'})
 response = req.json()
-
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 OpenNotify has several API endpoints. An endpoint is a server route that is used to retrieve different data from the API. For example, the /comments endpoint on the Reddit API might retrieve information about comments, whereas the /users endpoint might retrieve data about users. To access them, you would add the endpoint to the base url of the API.
 
