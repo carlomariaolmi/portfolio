@@ -19,7 +19,7 @@ The first endpoint we’ll look at on Spotify is the */search* endpoint. This en
 You can see a listing of all the endpoints on Spotify [here](https://developer.spotify.com/web-api/endpoint-reference/).
 
 ### Search for an Item 
-Endpoint:  https://api.spotify.com/v1/search
+> Endpoint:  https://api.spotify.com/v1/search
 Get Spotify catalog information about artists, albums, tracks or playlists that match a keyword string.
 
 ### Request Parameters
