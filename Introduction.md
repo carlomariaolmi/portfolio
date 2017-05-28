@@ -19,3 +19,9 @@ The first endpoint we’ll look at on OpenNotify is the iss-now.json endpoint. T
 You can see a listing of all the endpoints on OpenNotify here.
 
 The base url for the OpenNotify API is http://api.open-notify.org, so we’ll add this to the beginning of all of our endpoints.
+
+
+```python
+s = "Python syntax highlighting"
+print s
+```
