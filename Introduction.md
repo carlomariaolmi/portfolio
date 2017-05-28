@@ -40,10 +40,7 @@ response.status_code
 ```
 The request we just made had a status code of 200. That means thata everything went okey and the result has been returned. 
 
-```python
-response_json = response.json()
-```
-### JSON
+### Working with JSON
 JSON is the primary format in which data is passed back and forth to APIs, and most API servers will send their responses in JSON format.
 
 Python has great JSON support, with the json package. The json package is part of the standard library, so we don’t have to install anything to use it. We can both convert lists and dictionaries to JSON, and convert strings to lists and dictionaries.
@@ -51,3 +48,10 @@ Python has great JSON support, with the json package. The json package is part o
 import json
 response_json = response.json()
 ```
+Now we can parse the JSON response in a dataframe using pandas. 
+```python
+import pandas
+df = json_normalize(response_json['artist']['items'])
+df.head()
+```
+
