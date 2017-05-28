@@ -22,6 +22,5 @@ The base url for the OpenNotify API is http://api.open-notify.org, so we’ll ad
 
 
 ```python
-s = "Python syntax highlighting"
-print s
+import requests
 ```
