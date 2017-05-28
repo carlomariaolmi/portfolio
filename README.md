@@ -12,7 +12,7 @@ Project 5: Bayesian A/B Testing: New feature on website
 
 Project 6: Stock Market Data Analysis with Python 
 
-Project 7: 
+Project 7: Retention, cohorts and visualizations
 
 Project 8:
 
