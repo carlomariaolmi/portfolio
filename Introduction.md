@@ -54,4 +54,4 @@ import pandas
 df = json_normalize(response_json['artist']['items'])
 df.head()
 ```
-
+# Example: Get audio feature
