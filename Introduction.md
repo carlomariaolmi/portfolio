@@ -29,3 +29,6 @@ import requests
 response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'Radiohead', 'type':'playlist'})
 response_json = response.json()
 ```
+
+Request Parameters
+(q) The search query's keywords (and optional field filters and operators), for example q='Radiohead'. 
