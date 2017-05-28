@@ -32,9 +32,6 @@ We can make a dictionary with these parameters, and then pass them into the requ
 params= {'q':'Radiohead', 
          'type':'artist'}
 ```
-### Response Format
-On success, the HTTP status code in the response header is 200 OK and the response body contains an array of artist objects, simplified album objects and/or track objects (wrapped in a paging object) in JSON format. On error, the header status code is an error code and the response body contains an error object.
-
 Let's make our first API request and print the status code:
 ```python
 import requests
@@ -44,5 +41,13 @@ response.status_code
 The request we just made had a status code of 200. That means thata everything went okey and the result has been returned. 
 
 ```python
+response_json = response.json()
+```
+### JSON
+JSON is the primary format in which data is passed back and forth to APIs, and most API servers will send their responses in JSON format.
+
+Python has great JSON support, with the json package. The json package is part of the standard library, so we don’t have to install anything to use it. We can both convert lists and dictionaries to JSON, and convert strings to lists and dictionaries.
+```python
+import json
 response_json = response.json()
 ```
