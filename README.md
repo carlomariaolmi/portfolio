@@ -3,6 +3,8 @@
 
 Spotify Web API provides easy access to a huge library of songs and theirs audio features. At this tutorial, we will learn how to retrieve data from multiple Spotify API endpoints and how to play with it using pandas.
 
+* Introduction to WEB APIs (link)
+* Spotify WEB API documentation (link)
+* First API request (tutorial|1|2|3|4)
+* Pagination (titorial|1)
 
-* Introduction to APIs
-* Request
