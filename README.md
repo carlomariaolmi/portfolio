@@ -7,4 +7,5 @@ Spotify Web API provides easy access to a huge library of songs and theirs audio
 * Spotify WEB API documentation - ([link](https://developer.spotify.com/web-api/))
 * First API request 
 * Pagination 
+* Autentication 
 
