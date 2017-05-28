@@ -32,3 +32,5 @@ response_json = response.json()
 
 ### Request Parameters
 (q) The search query's keywords (and optional field filters and operators), for example q='Radiohead'. 
+
+(type) A comma-separated list of item types to search across. Valid types are: album, artist, playlist, and track.
