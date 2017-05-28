@@ -30,15 +30,13 @@ Get Spotify catalog information about artists, albums, tracks or playlists that 
 ### Response Format
 On success, the HTTP status code in the response header is 200 OK and the response body contains an array of artist objects, simplified album objects and/or track objects (wrapped in a paging object) in JSON format. On error, the header status code is an error code and the response body contains an error object.
 
-Let's build our first API request and print the status code:
+Let's make our first API request and print the status code:
 ```python
 import requests
 response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'Radiohead', 'type':'artist'})
 response.status_code
 ```
-```
-200 
-```
+The request we just made had a status code of 200. That means thata everything went okey and the result has been returned. 
 
 ```python
 response_json = response.json()
