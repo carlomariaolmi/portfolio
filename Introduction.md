@@ -20,6 +20,9 @@ You can see a listing of all the endpoints on OpenNotify here.
 
 The base url for the OpenNotify API is http://api.open-notify.org, so we’ll add this to the beginning of all of our endpoints.
 
+### Endpoints
+GET https://api.spotify.com/v1/search
+
 
 ```python
 import requests
