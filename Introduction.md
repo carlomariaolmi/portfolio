@@ -23,4 +23,8 @@ The base url for the OpenNotify API is http://api.open-notify.org, so we’ll ad
 
 ```python
 import requests
+
+response = requests.get(url='https://api.spotify.com/v1/search', params= {'q':'Radiohead', 'type':'playlist'})
+
+response_json = response.json()
 ```
