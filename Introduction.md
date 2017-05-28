@@ -20,6 +20,7 @@ You can see a listing of all the endpoints on Spotify [here](https://developer.s
 
 ### Search for an Item 
 > Endpoint:  https://api.spotify.com/v1/search
+
 Get Spotify catalog information about artists, albums, tracks or playlists that match a keyword string.
 
 ### Request Parameters
