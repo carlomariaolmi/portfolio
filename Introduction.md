@@ -7,7 +7,7 @@ APIs work much the same way, except instead of your web browser asking for a web
 
 In order to get the data, we make a request to a webserver. The server then replies with our data. In Python, we’ll use the requests library to do this. 
 
-## Type of requests
+### Type of requests
 There are many different types of requests. The most commonly used one, a GET request, is used to retrieve data.
 We can use a simple GET request to retrieve information from the Spotify API.
 
@@ -54,4 +54,4 @@ import pandas
 df = json_normalize(response_json['artist']['items'])
 df.head()
 ```
-# Example: Get audio feature
+## Example: Get audio feature
