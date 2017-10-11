@@ -20,7 +20,7 @@ Projetc 4: **Time series Analysis**
 
 Project 5: **Frequentist & Bayesian A/B Testing: New feature on website**
 
-Project 6: **Stock Market Data Analysis with Python **
+Project 6: **Stock Market Data Analysis with Python**
 
 Project 7: **Retention, cohorts and visualizations**
 
