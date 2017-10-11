@@ -19,6 +19,7 @@ Project 3:  **Interactive Data Visualization of Geospatial Data**
 Projetc 4:  **Time series Analysis**
 
 Project 5:  **A/B Testing: New feature on website**
+
             Frequentist & Bayesian A/B Testing
 
 Project 6:  **Stock Market Data Analysis with Python**
