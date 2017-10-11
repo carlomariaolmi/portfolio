@@ -1,3 +1,8 @@
+## ABOUT ME
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
 ## Data Science Portfolio
 
 Project 1: Cohort Analysis
