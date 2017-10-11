@@ -10,19 +10,19 @@ product, strategy and direction.
 
 ## Data Science Portfolio
 
-Project 1: Cohort Analysis
+Project 1: **Cohort Analysis**
 
-Project 2: Visualizing Hundreds of My Favorite Songs on Spotify
+Project 2: **Visualizing Hundreds of My Favorite Songs on Spotify**
 
-Project 3: Interactive Data Visualization of Geospatial Data
+Project 3: **Interactive Data Visualization of Geospatial Data**
 
-Projetc 4: Time series Analysis
+Projetc 4: **Time series Analysis**
 
-Project 5: Frequentist & Bayesian A/B Testing: New feature on website
+Project 5: **Frequentist & Bayesian A/B Testing: New feature on website**
 
-Project 6: Stock Market Data Analysis with Python 
+Project 6: **Stock Market Data Analysis with Python **
 
-Project 7: Retention, cohorts and visualizations
+Project 7: **Retention, cohorts and visualizations**
 
 Project 8:
 
