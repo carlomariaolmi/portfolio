@@ -1,5 +1,5 @@
 ## ABOUT ME
-[logo]: https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwis5Leuq-jWAhWDWxoKHW6mDvkQjRwIBw&url=https%3A%2F%2Fde.linkedin.com%2Fin%2Fcarlo-olmi-6423685b&psig=AOvVaw1Cxr9CrSS4oQm0xO_c0_2K&ust=1507803355257078 "Logo Title Text 2"
+[logo]: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/009/3bb/04937d5.jpg "Logo Title Text 2"
 
 
 
