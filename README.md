@@ -1,7 +1,5 @@
-## ABOUT ME
-[logo]: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/009/3bb/04937d5.jpg "Logo Title Text 2"
+## About me
 
-![GitHub Logo](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/009/3bb/04937d5.jpg = 250x250)
 
 ## Data Science Portfolio
 
