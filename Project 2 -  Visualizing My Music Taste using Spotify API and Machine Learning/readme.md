@@ -4,7 +4,7 @@
 * **Retreiving Music features of your favorite playlist using Spotify API**
 
    | | track_name | artist_name | track_id |track_name | artist_name | track_id |
-  |  | ------------- |:-------------:| -----:|------------- |:-------------:| -----:|
+  | --- | ------------- |:-------------:| -----:|------------- |:-------------:| -----:|
   |  | col 3 is      | right-aligned | $1600 |track_name | artist_name | track_id |
  |   | col 2 is      | centered      |   $12 |track_name | artist_name | track_id |
   |  | zebra stripes | are neat      |    $1 |track_name | artist_name | track_id |
