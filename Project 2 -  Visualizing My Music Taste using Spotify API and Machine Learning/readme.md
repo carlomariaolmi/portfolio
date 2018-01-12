@@ -5,7 +5,7 @@
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
 * **Recommending music on Spotify using Machine Learning**
 
-Inline-style: 
-![alt text](https://spotify.i.lithium.com/t5/image/serverpage/image-id/34343iEA24CBEDC14AD443/image-size/medium?v=1.0&px=400 "Logo Title Text 1")
+
+![alt text](https://spotify.i.lithium.com/t5/image/serverpage/image-id/34343iEA24CBEDC14AD443/image-size/medium?v=1.0&px="00 "Logo Title Text 1")
 
 
