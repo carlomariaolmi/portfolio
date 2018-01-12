@@ -2,6 +2,14 @@
 ### Visualizing My Music Taste using Spotify API and Machine Learning
 
 * **Retreiving Music features of your favorite playlist using Spotify API**
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
 * **Recommending music on Spotify using Machine Learning**
 
