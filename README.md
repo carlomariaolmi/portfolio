@@ -12,7 +12,7 @@ product, strategy and direction.
 
 Project 1:  **Cohort Analysis**
 
-Project 2:  **Visualizing Hundreds of My Favorite Songs on Spotify**
+Project 2:  **Visualizing My Music Taste using Spotify API and Machine Learning**
 
 Project 3:  **Interactive Data Visualization of Geospatial Data**
 
