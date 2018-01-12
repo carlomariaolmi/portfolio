@@ -6,6 +6,6 @@
 * **Recommending music on Spotify using Machine Learning**
 
 Inline-style: 
-![alt text](https://www.purplepandamedia.com/wp-content/uploads/2015/03/spotify-1.jpg "Logo Title Text 1")
+![alt text](https://spotify.i.lithium.com/t5/image/serverpage/image-id/34343iEA24CBEDC14AD443/image-size/medium?v=1.0&px=400 "Logo Title Text 1")
 
 
