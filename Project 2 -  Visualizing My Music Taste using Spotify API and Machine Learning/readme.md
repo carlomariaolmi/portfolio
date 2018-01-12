@@ -3,7 +3,7 @@
 
 * **Retreiving Music features of your favorite playlist using Spotify API**
 
-  |   | track_name          | artist_name | track_id |track_name | artist_name | track_id |
+  |   | track_name          | artist_name | track_id |acousticness | instrumentalness | loudness |
   | --| -------------       |:-------------:| -----:|------------- |:-------------:| -----:|
   |  0 | Stairway To Heaven | Led Zeppelin | 51pQ7vY7WXzxskwloaeqyj |track_name | artist_name | track_id |
   |  1 | Heroes             | David Bowie |   5j6ZZwA9BnxZi5Bk0Ng4jB |track_name | artist_name | track_id |
