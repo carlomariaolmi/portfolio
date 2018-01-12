@@ -3,13 +3,13 @@
 
 * **Retreiving Music features of your favorite playlist using Spotify API**
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
+    | track_name        | artist_name           | track_id  |
+    | ------------- |:-------------:| -----:|
+    | col 3 is      | right-aligned | $1600 |
+    | col 2 is      | centered      |   $12 |
+    | zebra stripes | are neat      |    $1 |
+acousticness	instrumentalness	loudness	tempo	danceability	liveness	valence	energy	speechiness
+track_name	artist_name	track_id
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
 * **Recommending music on Spotify using Machine Learning**
 
