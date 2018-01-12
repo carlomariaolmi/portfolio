@@ -5,9 +5,9 @@
 
   |   | track_name          | artist_name | track_id |track_name | artist_name | track_id |
   | --| -------------       |:-------------:| -----:|------------- |:-------------:| -----:|
-  |  0 | Stairway To Heaven | right-aligned | $1600 |track_name | artist_name | track_id |
-  |  1 | Heroes  | centered |   $12 |track_name | artist_name | track_id |
-  |  2 | Bohemian Rhapsod   | are neat      |    $1 |track_name | artist_name | track_id |
+  |  0 | Stairway To Heaven | Led Zeppelin | $1600 |track_name | artist_name | track_id |
+  |  1 | Heroes             | David Bowie |   $12 |track_name | artist_name | track_id |
+  |  2 | Bohemian Rhapsod   | Queen      |    $1 |track_name | artist_name | track_id |
 acousticness	instrumentalness	loudness	tempo	danceability	liveness	valence	energy	speechiness
 track_name	artist_name	track_id
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
