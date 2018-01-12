@@ -6,6 +6,6 @@
 * **Recommending music on Spotify using Machine Learning**
 
 
-![alt text](https://spotify.i.lithium.com/t5/image/serverpage/image-id/34343iEA24CBEDC14AD443/image-size/medium?v=1.0&px="00 "Logo Title Text 1")
+![alt text](https://spotify.i.lithium.com/t5/image/serverpage/image-id/34343iEA24CBEDC14AD443/image-size/medium?v=1.0&px=200 "Logo Title Text 1")
 
 
