@@ -13,7 +13,7 @@ product, strategy and direction.
 <!--from https://www.linkedin.com/profile/profile-badges-->
 <a href="https://www.linkedin.com/in/carlo-olmi" style="text-decoration:none;"><span><img
         src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="22" height="22"
-        alt=" View Julien Moumné's LinkedIn profile" style="vertical-align:middle;"
+        alt=" View Julien Moumné's LinkedIn profile" ;"
         border="0">LinkedIn</span></a>
         
 ## Data Science Portfolio
