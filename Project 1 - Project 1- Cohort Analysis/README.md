@@ -8,3 +8,5 @@
 ![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/Project%201%20-%20Project%201-%20Cohort%20Analysis/images/3.png?raw=true)
 
 ![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/Project%201%20-%20Project%201-%20Cohort%20Analysis/images/4.png?raw=true)
+
+![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/Project%201%20-%20Project%201-%20Cohort%20Analysis/images/5.png?raw=true)
