@@ -11,8 +11,8 @@ My mission is to turn terabytes of data into insights and get a deep understandi
 product, strategy and direction.
 
 <!--from https://www.linkedin.com/profile/profile-badges-->
-<a href="https://www.linkedin.com/in/jmoumne" style="text-decoration:none;"><span><img
-        src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15"
+<a href="https://www.linkedin.com/in/carlo-olmi" style="text-decoration:none;"><span><img
+        src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="20" height="15"
         alt="View Julien Moumné's LinkedIn profile" style="vertical-align:middle;"
         border="0">LinkedIn</span></a>
         
