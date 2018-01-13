@@ -2,6 +2,7 @@
 Carlo Olmi - Data Scientist 
 
 Berlin, Germany
+![alt text](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png?raw=truev=0.6&px=100 "Logo Title Text 1")
 
 
 
