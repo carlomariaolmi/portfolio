@@ -18,18 +18,16 @@ Project 2:  **Visualizing My Music Taste using Spotify API and Machine Learning*
 
 Project 3:  **Interactive Data Visualization of Geospatial Data**
 
-Projetc 4:  **Time series Analysis**
+Projetc 4:  **Portfolio Efficient Frontier**
 
 Project 5:  **A/B Testing: New feature on website**
-
-            Frequentist & Bayesian A/B Testing
 
 Project 6:  **Stock Market Data Analysis with Python**
 
 Project 7:  **Retention, cohorts and visualizations**
 
-Project 8:
+Project 8:  **Retention, cohorts and visualizations**
 
-Project 9:
+Project 9:  **Retention, cohorts and visualizations**
 
-Project 10:
+Project 10: **Retention, cohorts and visualizations**
