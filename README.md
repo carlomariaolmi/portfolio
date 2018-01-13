@@ -31,3 +31,10 @@ Project 8:  **Retention, cohorts and visualizations**
 Project 9:  **Retention, cohorts and visualizations**
 
 Project 10: **Retention, cohorts and visualizations**
+
+
+## Quick Tutorial
+
+1. Linear Regression
+2. Forecasting
+3. 
