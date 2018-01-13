@@ -1,9 +1,11 @@
 ## About me
+
+### Carlo Olmi - Data Scientist 
+Berlin, Germany
+
 ![alt text](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo2.PNG?raw=truev=0.1&px=20 "Logo Title Text 1")
 
-Carlo Olmi - Data Scientist 
 
-Berlin, Germany
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
