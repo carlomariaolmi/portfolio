@@ -12,6 +12,7 @@ Cohort analysis can be helpful when it comes to understanding your business’ h
 Additionally, your product evolves over time. New features are added and removed, the design changes, etc. Observing individual groups over time is a starting point to understanding how these changes affect user behaviour.
 
 It’s also a good way to visualise your user retention/churn as well as formulating a basic understanding of their lifetime value.
+
 ![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/Project%201%20-%20Project%201-%20Cohort%20Analysis/images/2.png?raw=true)
 
 ![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/Project%201%20-%20Project%201-%20Cohort%20Analysis/images/3.png?raw=true)
