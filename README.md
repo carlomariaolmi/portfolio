@@ -38,3 +38,9 @@ Project 10: **Retention, cohorts and visualizations**
 1. Linear Regression
 2. Forecasting
 3. 
+
+## SQL snippet
+
+1. Linear Regression
+2. Forecasting
+3. 
