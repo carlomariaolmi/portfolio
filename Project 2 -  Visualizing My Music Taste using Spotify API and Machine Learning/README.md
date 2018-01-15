@@ -2,6 +2,11 @@
 ### Visualizing My Music Taste using Spotify API and Machine Learning
 
 * **Retreiving Music features of your favorite playlist using Spotify API**
+
+* **Retreiving Music features of your favorite playlist using Spotify API**
+
+
+[**Retreiving Music features of your favorite playlist using Spotify API**](https://www.google.com)
 * **Visualizing Hundreds of My Favorite Songs on Spotify**
 * **Recommending music on Spotify using Machine Learning**
 
