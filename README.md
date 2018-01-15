@@ -9,7 +9,7 @@ product, strategy and direction.
         
 ## Data Science Portfolio
 
-Project 1:  **Cohort Analysis**
+Project 1:  [**Cohort Analysis**](https://github.com/carlomariaolmi/portfolio/tree/master/Project%202%20-%20%20Visualizing%20My%20Music%20Taste%20using%20Spotify%20API%20and%20Machine%20Learning)
 
 Project 2:  **[Visualizing My Music Taste using Spotify API and Machine Learning](https://github.com/carlomariaolmi/portfolio/tree/master/Project%202%20-%20%20Visualizing%20My%20Music%20Taste%20using%20Spotify%20API%20and%20Machine%20Learning)**
 * **Retreiving Music features of your favorite playlist using Spotify API**
