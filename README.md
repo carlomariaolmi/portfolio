@@ -1,7 +1,8 @@
 ## About me
+[![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://google.com.au/)
 
 
-![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)(http://github.com)
+
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
 ## Data Science Projects
