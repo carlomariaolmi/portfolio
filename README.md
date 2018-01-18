@@ -1,13 +1,10 @@
 ## About me
-![alt text](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo2.PNG?raw=true)
-
-
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
 
         
-## Data Science Portfolio
+## Data Science Projects
 
 Project 1:  [**Cohort Analysis**](https://github.com/carlomariaolmi/portfolio/tree/master/Project%202%20-%20%20Visualizing%20My%20Music%20Taste%20using%20Spotify%20API%20and%20Machine%20Learning)
 
@@ -33,14 +30,8 @@ Project 9:  **Retention, cohorts and visualizations**
 Project 10: **Retention, cohorts and visualizations**
 
 
-## Quick Tutorial
-
+## Analysis
 1. Linear Regression
-2. Forecasting
-3. 
-
-## SQL snippet
-
-1. Linear Regression
-2. Forecasting
-3. 
+2. Probability
+3. Clustering
+4. Logistic regression
