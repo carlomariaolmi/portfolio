@@ -38,3 +38,8 @@ Project 10: **Retention, cohorts and visualizations**
 4. Logistic regression
 5. Decision tree
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="it_IT" data-type="vertical" data-theme="light" data-vanity="carlo-olmi"><a class="LI-simple-link" href='https://de.linkedin.com/in/carlo-olmi?trk=profile-badge'>Carlo Olmi</a></div>
