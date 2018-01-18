@@ -2,7 +2,7 @@
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="it_IT" data-type="vertical" data-theme="dark" data-vanity="carlo-olmi"><a class="LI-simple-link" href='https://de.linkedin.com/in/carlo-olmi?trk=profile-badge'>Carlo Olmi</a></div>
         
 ## Data Science Projects
 
@@ -36,3 +36,4 @@ Project 10: **Retention, cohorts and visualizations**
 3. Clustering Techniques
 4. Logistic regression
 5. Decision tree
+
