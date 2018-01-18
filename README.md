@@ -2,10 +2,9 @@
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="it_IT" data-type="vertical" data-theme="dark" data-vanity="carlo-olmi"><a class="LI-simple-link" href='https://de.linkedin.com/in/carlo-olmi?trk=profile-badge'>Carlo Olmi</a></div>
 
+Format: ![Alt Text](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ## Data Science Projects
 
 Project 1:  [**Cohort Analysis**](https://github.com/carlomariaolmi/portfolio/tree/master/Project%202%20-%20%20Visualizing%20My%20Music%20Taste%20using%20Spotify%20API%20and%20Machine%20Learning)
