@@ -1,5 +1,5 @@
 ## About me
-[![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://google.com.au/)
+[![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://www.linkedin.com/in/carlo-olmi)
 
 
 
