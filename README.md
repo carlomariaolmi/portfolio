@@ -21,11 +21,11 @@ Project 5:  **A/B Testing: New feature on website**
 
 Project 6:  **Stock Market Data Analysis with Python**
 
-Project 7:  **Retention, cohorts and visualizations**
+Project 7:  **Multi-Armed Bandits**
 
-Project 8:  **Retention, cohorts and visualizations**
+Project 8:  **Predicting football results with statistical modelling**
 
-Project 9:  **Retention, cohorts and visualizations**
+Project 9:  **Predicting BitCoin price with deep learning**
 
 Project 10: **Retention, cohorts and visualizations**
 
@@ -33,5 +33,6 @@ Project 10: **Retention, cohorts and visualizations**
 ## Analysis
 1. Linear Regression
 2. Probability
-3. Clustering
+3. Clustering Techniques
 4. Logistic regression
+5. Decision tree
