@@ -33,7 +33,8 @@ Project 8:  **Predicting football results with statistical modelling**
 Project 9:  **Predicting BitCoin price with deep learning**
 
 Project 10: **Measuring Productivity and Idle time**
-
+* **Preparing data with SQL**
+* **Analysing results with python**
 
 ## Analysis
 1. Linear Regression
