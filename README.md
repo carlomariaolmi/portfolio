@@ -19,6 +19,10 @@ Project 3:  **Interactive Data Visualization of Geospatial Data**
 Projetc 4:  **Portfolio Efficient Frontier**
 
 Project 5:  **A/B Testing: New feature on website**
+* **Warming-up with Statistics**
+* **Frequentist AB Test**
+* **Alternative methods for AB Testing**
+* **Business Framework**
 
 Project 6:  **Stock Market Data Analysis with Python**
 
@@ -28,7 +32,7 @@ Project 8:  **Predicting football results with statistical modelling**
 
 Project 9:  **Predicting BitCoin price with deep learning**
 
-Project 10: **Retention, cohorts and visualizations**
+Project 10: **Measuring Productivity and Idle time**
 
 
 ## Analysis
