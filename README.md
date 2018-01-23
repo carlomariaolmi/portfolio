@@ -7,37 +7,37 @@ My mission is to turn terabytes of data into insights and get a deep understandi
 product, strategy and direction.
 Data Science Projects
 
-- Cohort Analysis
+- **Cohort Analysis**
   - Py
   - SQL
-- Visualizing My Music Taste using Spotify API and Machine Learning
+- **Visualizing My Music Taste using Spotify API and Machine Learning**
   - Retreiving Music features of your favorite playlist using Spotify API
   - Visualizing Hundreds of My Favorite Songs on Spotify
   - Recommending music on Spotify using Machine Learning
-- Interactive Data Visualization of Geospatial Data
+- **Interactive Data Visualization of Geospatial Data**
   - a
   - b
-- Portfolio Efficient Frontier
+- **Portfolio Efficient Frontier**
   - a
   - b
-- A/B Testing: New feature on website
+- **A/B Testing: New feature on website**
   - Warming-up with Statistics
   - Frequentist AB Test
   - Alternative methods for AB Testing
   - Business Framework
-- Stock Market Data Analysis with Python
+- **Stock Market Data Analysis with Python**
   - a
   - b
-- Multi-Armed Bandits
+- **Multi-Armed Bandits**
   - a
   - b
-- Predicting football results with statistical modelling
+- **Predicting football results with statistical modelling**
   - a
   - b
-- Predicting BitCoin price with deep learning
+- **Predicting BitCoin price with deep learning**
   - a
   - b
-- Measuring Productivity and Idle time
+- **Measuring Productivity and Idle time**
   - Preparing data with SQL
   - Analysing results with python
 
