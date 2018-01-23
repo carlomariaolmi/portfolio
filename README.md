@@ -2,6 +2,7 @@
 [![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://www.linkedin.com/in/carlo-olmi)
 
 
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
