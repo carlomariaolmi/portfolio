@@ -1,6 +1,7 @@
 ## About me
 [![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://www.linkedin.com/in/carlo-olmi)
 
+<span style="color:red">some **This is Red Bold.** text</span>
 
 <span style="color:blue">some *This is Blue italic.* text</span>
 
