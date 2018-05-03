@@ -16,6 +16,8 @@ product, strategy and direction.
   - Retreiving Music features of your favorite playlist using Spotify API
   - Visualizing Hundreds of My Favorite Songs on Spotify
   - Recommending music on Spotify using Machine Learning
+
+  ![download](/Users/c.olmi/Downloads/download.png)
 - **Interactive Data Visualization of Geospatial Data**
   - a
   - b
