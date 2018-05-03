@@ -1,12 +1,13 @@
-## About me
+# Carlo Olmi's Portfolio
 
-
-![linkedin](/Users/c.olmi/Documents/GitHub/portfolio/images/linkedin.PNG)
 
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
-Data Science Projects
+
+
+
+### Data Science Projects:
 
 - **Cohort Analysis**
   - Using Python
@@ -44,8 +45,8 @@ Data Science Projects
 
 
 
+### Tutorials
 
-## Analysis
 1. Linear Regression
 
 2. Probability
