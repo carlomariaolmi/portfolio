@@ -1,17 +1,16 @@
 ## About me
-[![Foo](https://github.com/carlomariaolmi/portfolio/blob/master/images/linkedin.PNG?raw=true)](http://www.linkedin.com/in/carlo-olmi)
 
-<p style='color:red'>This is some red text.</p>
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+![linkedin](/Users/c.olmi/Documents/GitHub/portfolio/images/linkedin.PNG)
+
 
 My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the
 product, strategy and direction.
 Data Science Projects
 
 - **Cohort Analysis**
-  - Py
-  - SQL
+  - Using Python
+  - Using SQL and Tableau
 - **Visualizing My Music Taste using Spotify API and Machine Learning**
   - Retreiving Music features of your favorite playlist using Spotify API
   - Visualizing Hundreds of My Favorite Songs on Spotify
@@ -48,13 +47,19 @@ Data Science Projects
 
 ## Analysis
 1. Linear Regression
+
 2. Probability
+
 3. Clustering Techniques
+
 4. Logistic regression
+
 5. Decision tree
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+6. Principal Component Analysis (PCA)
+
+7. Support Vector Machine
+
+   
 
 
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="it_IT" data-type="vertical" data-theme="light" data-vanity="carlo-olmi"><a class="LI-simple-link" href='https://de.linkedin.com/in/carlo-olmi?trk=profile-badge'>Carlo Olmi</a></div>
