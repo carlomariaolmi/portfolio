@@ -11,7 +11,9 @@ product, strategy and direction.
 
 - **Cohort Analysis with Python**
 
-  ![Cohort1](/Users/c.olmi/Documents/GitHub/portfolio/images/Cohort1.png)
+  ![Cohort1](https://github.com/carlomariaolmi/portfolio/blob/master/images/Cohort1.png)
+
+   
 
 - **Visualizing My Music Taste using Spotify API and Machine Learning**
   - Retreiving Music features of your favorite playlist using Spotify API
