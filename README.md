@@ -4,7 +4,7 @@
 
 ![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png ) 
 
-![smiley](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png){:height="36px" width="36px"}
+![smiley](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png){:height="10px" width="10px"}
 
 > My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
 
