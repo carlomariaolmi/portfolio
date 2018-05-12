@@ -41,4 +41,21 @@ Cohort analysis refers to the practice of analyzing the performance of a group o
 
 ![AB](https://github.com/carlomariaolmi/portfolio/blob/master/images/ab%20test.png)
 
+
+
+## Project 4 - Making a Geographic Heatmap with Python
+
+
+
  
+
+
+
+## Project 5 - Time Series Analysis and Forecasting
+
+
+
+
+
+## Project 6 - Linear Regression and 
+
