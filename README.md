@@ -2,9 +2,7 @@
 
 **Data Scientist and Product Specialist based in Berlin.**
 
-![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png =25x) 
-
-![smiley](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png){:height="10px" width="10px"}
+![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/me.png ) 
 
 > My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
 
