@@ -24,7 +24,9 @@ Cohort analysis refers to the practice of analyzing the performance of a group o
 - Visualizing Hundreds of My Favorite Songs on Spotify
 - Recommending music on Spotify using Machine Learning
 
-![download (1)](/Users/c.olmi/Documents/GitHub/portfolio/images/download (1).png)
+![AB](https://github.com/carlomariaolmi/portfolio/blob/master/images/sp.png)
+
+
 
 
 
