@@ -1,6 +1,8 @@
-# Carlo Olmi's Portfolio
+# Carlo Olmi's Portfolio 
 
 **Data Scientist and Product Specialist based in Berlin.**
+
+![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/logo.png)
 
 > My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
 
@@ -25,12 +27,6 @@ Cohort analysis refers to the practice of analyzing the performance of a group o
 - Recommending music on Spotify using Machine Learning
 
 ![AB](https://github.com/carlomariaolmi/portfolio/blob/master/images/sp.png)
-
-
-
-
-
-
 
 ## Project 3 - **A/B Testing: New feature on website**
 
