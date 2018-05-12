@@ -1,10 +1,12 @@
 # Carlo Olmi's Portfolio
 
-Data Scientist and Product Specialist based in Berlin.
+**Data Scientist and Product Specialist based in Berlin.**
+
+**Download my CV here! [here!](https://www.google.com)**
 
 > My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
 
-**Download my CV here! [here!](https://www.google.com)**
+
 
 ## Project 1 - Cohort Analysis with Python
 
