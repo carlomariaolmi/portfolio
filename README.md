@@ -9,38 +9,47 @@ product, strategy and direction.
 
 ### Data Science Projects:
 
-- **Cohort Analysis**
-  - Using Python
-  - Using SQL and Tableau
+- **Cohort Analysis with Python**
+
+  ![Cohort1](/Users/c.olmi/Documents/GitHub/portfolio/images/Cohort1.png)
+
 - **Visualizing My Music Taste using Spotify API and Machine Learning**
   - Retreiving Music features of your favorite playlist using Spotify API
   - Visualizing Hundreds of My Favorite Songs on Spotify
   - Recommending music on Spotify using Machine Learning
 
-  ![download](/Users/c.olmi/Downloads/download.png)
+  ![download (1)](/Users/c.olmi/Documents/GitHub/portfolio/images/download (1).png)
+
 - **Interactive Data Visualization of Geospatial Data**
   - a
   - b
+
 - **Portfolio Efficient Frontier**
   - a
   - b
+
 - **A/B Testing: New feature on website**
   - Warming-up with Statistics
   - Frequentist AB Test
   - Alternative methods for AB Testing
   - Business Framework
+
 - **Stock Market Data Analysis with Python**
   - a
   - b
+
 - **Multi-Armed Bandits**
   - a
   - b
+
 - **Predicting football results with statistical modelling**
   - a
   - b
+
 - **Predicting BitCoin price with deep learning**
   - a
   - b
+
 - **Measuring Productivity and Idle time**
   - Preparing data with SQL
   - Analysing results with python
