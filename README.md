@@ -11,7 +11,11 @@ product, strategy and direction.
 
 - **Cohort Analysis with Python**
 
-  ![Cohort1](https://github.com/carlomariaolmi/portfolio/blob/master/images/Cohort1.png)
+  Cohort analysis refers to the practice of analyzing the performance of a group of visitors who share common characteristics over a specific time-period, selected from within an organization’s defined customer life-cycle.
+
+  
+
+  ![Cohort1](https://cdn-images-1.medium.com/max/1600/1*ikx5gxCWz2jpuDkim32M-A.png)
 
    
 
