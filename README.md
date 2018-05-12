@@ -37,6 +37,6 @@ Cohort analysis refers to the practice of analyzing the performance of a group o
 - Alternative methods for AB Testing
 - Business Framework
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/carlomariaolmi/portfolio/blob/master/images/ab%20test.png")
 
  
