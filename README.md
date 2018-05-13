@@ -1,8 +1,8 @@
 # Carlo Olmi's Portfolio 
 
-**Data Scientist and Product Specialist based in Berlin.**
-
 ![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/Me.png ) 
+
+**Data Scientist and Product Specialist based in Berlin.**
 
 > My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
 
