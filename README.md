@@ -14,8 +14,8 @@ Project 6: Stock Market Data Analysis with Python
 
 Project 7: Retention, cohorts and visualizations
 
-Project 8:
+Project 8: CAPM Analysis: Calculating stock Beta as a Regression with Python
 
-Project 9:
+Project 9: Efficient Frontier & Portfolio Optimization with Python
 
-Project 10:
+Project 10: Assessing the riskiness of a portfolio with Python
