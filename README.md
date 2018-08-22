@@ -1,5 +1,5 @@
 
-My name is Carlo. I am a Data Scientist based out of Berlin, Germany. My industry experience includes Rocket Internet, Deloitte, Foodora, Delivery Hero, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives.
+My name is Carlo. I am a Data Scientist based out of Berlin, Germany. My industry experience includes **Rocket Internet**, **Deloitte**, **Foodora**, **Delivery Hero**, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives.
 
 Below are some personal projects that I've worked on in the past. More to come soon!
 ## Data Science Portfolio
