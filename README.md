@@ -1,6 +1,6 @@
 ## Data Science Portfolio
 
-Project 1: Cohort Analysis
+Project 1: *Cohort Analysis*
 
 Project 2: Visualizing Hundreds of My Favorite Songs on Spotify
 
@@ -19,3 +19,8 @@ Project 8: CAPM Analysis: Calculating stock Beta as a Regression with Python
 Project 9: Efficient Frontier & Portfolio Optimization with Python
 
 Project 10: Assessing the riskiness of a portfolio with Python
+
+
+## Snippets 
+
+* Using PostgreSQL through SQL Alchemy
