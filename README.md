@@ -10,7 +10,13 @@ It’s also a good way to visualize your user retention/churn as well as formula
 
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
 
-Project 2: Visualizing Hundreds of My Favorite Songs on Spotify
+## Project 2: [Visualizing My Music Taste using Machine Learning](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/Cohort%20Analysis.ipynb)
+
+
+![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
+
+
+Project 2: Visualizing my favorite playlist on Spotify and detecting my music taste with ML
 
 Project 3: Interactive Data Visualization of Geospatial Data
 
