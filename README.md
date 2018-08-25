@@ -16,7 +16,12 @@ How would you go about describing your favorite new song? What makes it catchy t
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Visualizing%20My%20Music%20Taste%20using%20Spotify%20API%20and%20Machine%20Learning/the_doors.png)
 
 
-Project 3: Interactive Data Visualization of Geospatial Data
+## Project 3: [An ultimate guide to A/B Testing](https://github.com/carlo-olmi/portfolio/blob/master/AB%20Tesing/Frequentist%20AB%20and%20more.ipynb)
+A/B testing is essentially a simple randomized trial. Randomized trials are (usually) considered the gold standard study design for evaluating the efficacy of new medical treatments, but they are also used much more widely in experimental research.
+In web analytics, A/B testing (bucket tests or split-run testing) is a controlled experiment with two variants, A and B. It is a form of statistical hypothesis testing or "two-sample hypothesis testing" as used in the field of statistics. In online settings, such as web design (especially user experience design), the goal of A/B testing is to identify changes to web pages that increase or maximize an outcome of interest (e.g., click-through rate for a banner advertisement). 
+
+![alt text](https://github.com/carlo-olmi/portfolio/blob/master/AB%20Tesing/ab_test.png)
+
 
 Projetc 4: Time series Analysis
 
