@@ -11,7 +11,7 @@ It’s also a good way to visualize your user retention/churn as well as formula
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
 
 ## Project 2: [Visualizing My Music Taste using Machine Learning](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/Cohort%20Analysis.ipynb)
-
+How would you go about describing your favorite new song? What makes it catchy to you? According to the people at Spotify, characteristics like energy or mood of a song can actually be quantified, and have many algorithms to describe music in an amazing amount of ways.
 
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
 
