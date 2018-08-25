@@ -16,8 +16,6 @@ How would you go about describing your favorite new song? What makes it catchy t
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
 
 
-Project 2: Visualizing my favorite playlist on Spotify and detecting my music taste with ML
-
 Project 3: Interactive Data Visualization of Geospatial Data
 
 Projetc 4: Time series Analysis
@@ -25,8 +23,6 @@ Projetc 4: Time series Analysis
 Project 5: Bayesian A/B Testing: New feature on website
 
 Project 6: Stock Market Data Analysis with Python 
-
-Project 7: Retention, cohorts and visualizations
 
 Project 8: CAPM Analysis: Calculating stock Beta as a Regression with Python
 
