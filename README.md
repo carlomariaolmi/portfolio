@@ -32,3 +32,4 @@ Project 10: Assessing the riskiness of a portfolio with Python
 ## Snippets 
 
 * Using PostgreSQL through SQL Alchemy
+
