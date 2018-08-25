@@ -38,5 +38,5 @@ Project 10: Assessing the riskiness of a portfolio with Python
 
 ## Snippets 
 
-* Using PostgreSQL through SQL Alchemy
+* [Using PostgreSQL through SQL Alchemy](https://github.com/carlo-olmi/portfolio/blob/master/snippets/Using%20PostgreSQL%20through%20SQL%20Alchemy.ipynb)
 
