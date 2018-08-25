@@ -4,7 +4,6 @@ My name is Carlo. I am a Data Scientist based out of Berlin, Germany. My industr
 Below are some personal projects that I've worked on in the past. More to come soon!
 
 ## Project 1: [Cohort Analysis](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/Cohort%20Analysis.ipynb)
-Inline-style: 
 ![alt text](https://github.com/carlo-olmi/portfolio/blob/master/Cohort%20Analysis/cohort%20chart.png)
 
 Project 2: Visualizing Hundreds of My Favorite Songs on Spotify
