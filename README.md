@@ -1,4 +1,14 @@
 
+# Carlo Olmi's Portfolio 
+
+![h](https://github.com/carlomariaolmi/portfolio/blob/master/images/Me.png ) 
+
+**Data Scientist and Product Specialist based in Berlin.**
+
+> My mission is to turn terabytes of data into insights and get a deep understanding of the business to impact the product, strategy and direction.
+
+Download my CV [here!](https://www.google.com)
+
 My name is Carlo. I am a Data Scientist based out of Berlin, Germany. My industry experience includes **Rocket Internet**, **Deloitte**, **Foodora**, **Delivery Hero**, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives.
 
 Below are some personal projects that I've worked on in the past. More to come soon!
